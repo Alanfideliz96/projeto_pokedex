@@ -1,0 +1,4 @@
+poke_venv
+*.pyc
+*.xml
+.idea
